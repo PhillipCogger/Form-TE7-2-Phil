@@ -31,7 +31,9 @@
   "lede": "Use this form to apply to file a statement out of time/extension of time for an unpaid parking penalty charge.",
   "steps": [
     "page.penalty-charge-details",
-    "page.your-details"
+    "page.your-details",
+    "page.vehicle-owned-by-company",
+    "page.out-of-time-or-need-more-time"
   ],
   "url": "/"
 }

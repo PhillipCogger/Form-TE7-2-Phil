@@ -17,12 +17,35 @@
       "_id": "page.your-details--text.auto_name__2",
       "_type": "text",
       "label": "Building and street",
-      "name": "building_and_street"
+      "name": "building_and_street",
+      "widthClassInput": "30"
     },
     {
       "_id": "page.your-details--text.auto_name__1--2",
       "_type": "text",
-      "name": "street"
+      "name": "street",
+      "widthClassInput": "30"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__1--3",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "town_or_city",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__2--2",
+      "_type": "text",
+      "label": "County",
+      "name": "county",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.your-details--text.auto_name__1--4",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "postcode",
+      "widthClassInput": "one-third"
     }
   ],
   "heading": "Your details (the respondent)",
