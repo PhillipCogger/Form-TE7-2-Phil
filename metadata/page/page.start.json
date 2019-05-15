@@ -33,7 +33,11 @@
     "page.penalty-charge-details",
     "page.your-details",
     "page.vehicle-owned-by-company",
-    "page.out-of-time-or-need-more-time"
+    "page.out-of-time-or-need-more-time",
+    "page.statement-of-truth",
+    "page.how-can-we-contact-you",
+    "page.check-your-answers",
+    "page.application-complete"
   ],
   "url": "/"
 }
