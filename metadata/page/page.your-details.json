@@ -23,7 +23,8 @@
     {
       "_id": "page.your-details--text.auto_name__1--2",
       "_type": "text",
-      "name": "street",
+      "label": "Second line of address (if required)",
+      "name": "second_line_of_address",
       "widthClassInput": "30"
     },
     {
