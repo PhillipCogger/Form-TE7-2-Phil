@@ -5,10 +5,15 @@
     {
       "_id": "page.your-phone-number--number.auto_name__10",
       "_type": "number",
-      "hint": "We’ll only use this to contact you about your application",
+      "hint": "We’ll only use this to contact you about your application.",
       "label": "Your phone number",
       "name": "your_phone_number"
     }
   ],
+  "show": {
+    "identifier": "auto_name__9",
+    "operator": "is",
+    "value": "auto_value__9"
+  },
   "url": "your-phone-number"
 }
