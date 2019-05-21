@@ -4,15 +4,32 @@
   "components": [
     {
       "_id": "page.vehicle-owned-by-company--radios.auto_name__1",
-      "_isa": "radios.yes-no",
       "_type": "radios",
+      "items": [
+        {
+          "_id": "page.vehicle-owned-by-company--radios.auto_name__1--radio.auto_value__10",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.vehicle-owned-by-company--radios.auto_name__1--radio.auto_value__10--text.auto_name__10",
+            "_type": "text",
+            "label": "Company name",
+            "name": "auto_name__10"
+          },
+          "label": "Yes",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.vehicle-owned-by-company--radios.auto_name__1--radio.auto_value__11",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__11"
+        }
+      ],
       "legend": "Is the vehicle owned and registered by a company?",
       "name": "owned_registered_by_company"
     }
   ],
   "enableSteps": true,
-  "steps": [
-    "page.company-name"
-  ],
+  "steps": [],
   "url": "vehicle-owned-by-company"
 }

@@ -23,8 +23,7 @@
     }
   ],
   "enableSteps": true,
-  "heading": "Statement of truth",
-  "lede": "Are you completing this form yourself or on behalf of the respondent?",
+  "heading": "Are you completing this form yourself or on behalf of the respondent?",
   "steps": [
     "page.respondent-confirmation",
     "page.person-confirming-application"

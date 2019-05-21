@@ -1,9 +1,11 @@
 {
   "_id": "page.respondent-confirmation",
   "_type": "page.form",
-  "body": "I confirm that the information supplied in this application is truthful and\r\naccurate to the best of my knowledge.",
   "components": [
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
       "_id": "page.respondent-confirmation--radios.auto_name__4",
       "_type": "radios",
       "items": [
@@ -13,32 +15,39 @@
           "$option": true,
           "_id": "page.respondent-confirmation--radios.auto_name__4--radio.auto_value__4",
           "_type": "radio",
-          "label": "Yes",
+          "label": "I believe the facts stated in this application are true",
           "value": "auto_value__4"
-        },
-        {
-          "_id": "page.respondent-confirmation--radios.auto_name__4--radio.auto_value__3",
-          "_type": "radio",
-          "label": "No, I want to [amend this application](/)",
-          "value": "auto_value__3"
         }
       ],
       "name": "auto_name__4"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.respondent-confirmation--text.auto_name__3",
       "_type": "text",
       "label": "Your full name",
       "name": "auto_name__3"
     },
     {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
       "_id": "page.respondent-confirmation--date.auto_name__5",
       "_type": "date",
       "label": "Date",
       "name": "auto_name__5"
+    },
+    {
+      "_id": "page.respondent-confirmation--inset",
+      "_type": "inset",
+      "html": "Proceedings for contempt of court may be brought against you if you make or cause to be made a false statement in an application verified by a statement of truth without an honest belief in its truth."
     }
   ],
-  "heading": "Confirmation",
+  "heading": "Statement of truth",
   "show": {
     "identifier": "statement_of_truth",
     "operator": "is",
