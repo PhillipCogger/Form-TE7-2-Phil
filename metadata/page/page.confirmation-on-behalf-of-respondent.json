@@ -1,23 +1,19 @@
 {
   "_id": "page.confirmation-on-behalf-of-respondent",
   "_type": "page.form",
-  "body": "The respondent confirms that the information supplied in this application is truthful and accurate to the best of their knowledge.",
   "components": [
     {
       "_id": "page.confirmation-on-behalf-of-respondent--radios.auto_name__6",
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.confirmation-on-behalf-of-respondent--radios.auto_name__6--radio.auto_value__3",
           "_type": "radio",
-          "label": "Yes",
+          "label": "The witness believes the facts stated in this application are true",
           "value": "auto_value__3"
-        },
-        {
-          "_id": "page.confirmation-on-behalf-of-respondent--radios.auto_name__6--radio.auto_value__4",
-          "_type": "radio",
-          "label": "No, the respondent wants to [amend this application](/)",
-          "value": "auto_value__4"
         }
       ],
       "name": "auto_name__6"
@@ -33,9 +29,14 @@
       "_type": "date",
       "label": "Date",
       "name": "auto_name__8"
+    },
+    {
+      "_id": "page.confirmation-on-behalf-of-respondent--inset",
+      "_type": "inset",
+      "html": "Proceedings for contempt of court may be brought against you if you make or cause to be made a false statement in an application verified by a statement of truth without an honest belief in its truth."
     }
   ],
-  "heading": "Confirmation on behalf of the respondent",
+  "heading": "Statement of truth",
   "show": {
     "identifier": "statement_of_truth",
     "operator": "is",

@@ -24,6 +24,12 @@
           "_type": "radio",
           "label": "Phone",
           "value": "auto_value__9"
+        },
+        {
+          "_id": "page.how-can-we-contact-you--radios.auto_name__9--radio.auto_value__4",
+          "_type": "radio",
+          "label": "By post",
+          "value": "auto_value__4"
         }
       ],
       "legend": "How would you prefer to be contacted?",
