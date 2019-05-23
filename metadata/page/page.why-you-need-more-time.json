@@ -5,11 +5,11 @@
     {
       "_id": "page.why-you-need-more-time--textarea.auto_name__1",
       "_type": "textarea",
-      "label": "Give reasons why you are filing for more time",
+      "label": "You must give specific reasons why you require more time to file a statement.",
       "name": "auto_name__1"
     }
   ],
-  "heading": "Why do you need more time?",
+  "heading": "Why you require more time to file a statement",
   "show": {
     "identifier": "out_of_time_or_need_more_time",
     "operator": "is",

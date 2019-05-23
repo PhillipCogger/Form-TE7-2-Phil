@@ -5,11 +5,11 @@
     {
       "_id": "page.reason-for-filing-outside-of-time--textarea.auto_name__1",
       "_type": "textarea",
-      "label": "Give reasons why you are filing outside the given time",
+      "label": "You must give specific reasons why you have missed the date shown on the order for recovery.",
       "name": "out_of_time_reason"
     }
   ],
-  "heading": "Why are you outside the given time?",
+  "heading": "Why you are filing a statement to say you are outside the given time",
   "show": {
     "identifier": "out_of_time_or_need_more_time",
     "operator": "is",
