@@ -9,17 +9,17 @@
         {
           "_id": "page.out-of-time-or-need-more-time--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
-          "label": "I'm out of time",
+          "label": "The date shown on the order for recovery has since elapsed (out of time)",
           "value": "auto_value__1"
         },
         {
           "_id": "page.out-of-time-or-need-more-time--radios.auto_name__3--radio.auto_value__2",
           "_type": "radio",
-          "label": "I need more time",
+          "label": "I am still within the deadline given on the order for recovery, however require more time to file a statement (extension of time)",
           "value": "auto_value__2"
         }
       ],
-      "legend": "Are you filing because you're out of time or need more time?",
+      "legend": "Why do you want to file a statement?",
       "name": "out_of_time_or_need_more_time"
     }
   ],
