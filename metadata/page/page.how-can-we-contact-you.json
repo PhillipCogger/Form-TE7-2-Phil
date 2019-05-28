@@ -26,7 +26,7 @@
         }
       ],
       "legend": "How would you prefer to be contacted about your case?",
-      "name": "auto_name__9"
+      "name": "contact_preferences"
     }
   ],
   "enableSteps": true,

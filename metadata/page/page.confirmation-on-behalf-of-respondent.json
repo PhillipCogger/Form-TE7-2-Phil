@@ -16,19 +16,20 @@
           "value": "auto_value__3"
         }
       ],
-      "name": "auto_name__6"
+      "legend": "Statement of truth",
+      "name": "statement_of_truth"
     },
     {
       "_id": "page.confirmation-on-behalf-of-respondent--text.auto_name__7",
       "_type": "text",
       "label": "Your full name",
-      "name": "auto_name__7"
+      "name": "your_full_name"
     },
     {
       "_id": "page.confirmation-on-behalf-of-respondent--date.auto_name__8",
       "_type": "date",
       "label": "Date",
-      "name": "auto_name__8"
+      "name": "date"
     },
     {
       "_id": "page.confirmation-on-behalf-of-respondent--inset",

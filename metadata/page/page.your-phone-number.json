@@ -11,7 +11,7 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__9",
+    "identifier": "contact_preferences",
     "operator": "is",
     "value": "auto_value__9"
   },

@@ -6,7 +6,7 @@
       "_id": "page.why-you-need-more-time--textarea.auto_name__1",
       "_type": "textarea",
       "label": "You must give specific reasons why you require more time to file a statement.",
-      "name": "auto_name__1"
+      "name": "reasons_for_more_time"
     }
   ],
   "heading": "Why you require more time to file a statement",

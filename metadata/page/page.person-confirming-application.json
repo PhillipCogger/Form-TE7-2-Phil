@@ -39,7 +39,8 @@
           "value": "auto_value__7"
         }
       ],
-      "name": "person_applying_on_behalf_of_respondent"
+      "legend": "Who is signing on behalf of the respondent?",
+      "name": "person_signing_on_behalf_of_respondent"
     }
   ],
   "enableSteps": true,
