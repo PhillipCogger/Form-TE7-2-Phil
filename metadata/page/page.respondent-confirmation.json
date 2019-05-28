@@ -19,7 +19,8 @@
           "value": "auto_value__4"
         }
       ],
-      "name": "auto_name__4"
+      "legend": "Statement of truth",
+      "name": "statement_of_truth"
     },
     {
       "$component": true,
