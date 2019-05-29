@@ -25,7 +25,7 @@
           "value": "auto_value__9"
         }
       ],
-      "legend": "How would you prefer to be contacted about your case?",
+      "legend": "How would you prefer to be contacted about the case?",
       "name": "contact_preferences"
     }
   ],
