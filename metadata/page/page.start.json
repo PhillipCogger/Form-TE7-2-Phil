@@ -35,6 +35,9 @@
     "page.vehicle-owned-by-company",
     "page.out-of-time-or-need-more-time",
     "page.statement-of-truth",
+    "page.respondent-statement-of-truth",
+    "page.person-signing-for-respondent",
+    "page.statement-of-truth--2",
     "page.how-can-we-contact-you",
     "page.check-your-answers",
     "page.application-complete"
